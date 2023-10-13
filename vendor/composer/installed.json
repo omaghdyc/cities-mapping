@@ -1,0 +1,56 @@
+{
+    "packages": [
+        {
+            "name": "lucascavalcante/fuzzy-search",
+            "version": "v1.0.1",
+            "version_normalized": "1.0.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/lucascavalcante/fuzzy-search.git",
+                "reference": "4f904078378f0f7e3cc6776f95db4e14bd781c3a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/lucascavalcante/fuzzy-search/zipball/4f904078378f0f7e3cc6776f95db4e14bd781c3a",
+                "reference": "4f904078378f0f7e3cc6776f95db4e14bd781c3a",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">= 7.0"
+            },
+            "time": "2019-06-28T13:13:19+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "FuzzySearch\\": "src/FuzzySearch"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Lucas Cavalcante",
+                    "email": "lucascavalcante@gmail.com"
+                }
+            ],
+            "description": "A PHP library that turns easy fuzzy string searching",
+            "keywords": [
+                "fuzzy",
+                "matching",
+                "search",
+                "searching",
+                "string"
+            ],
+            "support": {
+                "issues": "https://github.com/lucascavalcante/fuzzy-search/issues",
+                "source": "https://github.com/lucascavalcante/fuzzy-search/tree/v1.0.1"
+            },
+            "install-path": "../lucascavalcante/fuzzy-search"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
